@@ -30,4 +30,4 @@ pygbif==0.2.0
 git+https://github.com/dimasciput/django-bims.git
 
 # BIMS Fish module
-git+https://github.com/kartoza/kbims-fish.git
+git+https://github.com/dimasciput/kbims-fish.git
